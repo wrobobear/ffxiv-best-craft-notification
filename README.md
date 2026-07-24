@@ -17,8 +17,7 @@
 您必須先為您的瀏覽器安裝腳本管理器：
 1. 使用 **Microsoft Edge** 或 **Google Chrome** 瀏覽器。
 2. 前往擴充功能商店下載並安裝 **Tampermonkey**：
-   * [Microsoft Edge 擴充功能商店](https://microsoft.com)
-   * [Chrome 線上應用程式商店](https://google.com)
+   * [Chrome 線上應用程式商店](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 #### 第二步：建立並安裝本腳本
 1. 點擊瀏覽器右上角的 **Tampermonkey 圖示**，選擇 **「建立新腳本」** (Create a new script)。
@@ -26,7 +25,7 @@
 3. 點擊編輯器左上角的 **「檔案 (File)」 ＞ 「儲存 (Save)」**。
 
 #### 第三步：開始使用與重要注意事項
-1. 前往 [BestCraft 繁中版模擬器網頁](https://github.io)。
+1. 前往 [BestCraft 繁中版模擬器網頁](https://isla-liu.github.io/ffxiv-best-craft-zhtw/#/welcome)。
 2. 本腳本已優化為**全自動背景偵測**，當您在網頁進行選配方、調整屬性或點擊「開始求解」時，瀏覽器即會自動核准發聲權限。
 3. 按下求解後，您可以放心將網頁切到背景、縮小，或是切回 FF14 遊戲中。
 4. 計算完成時，系統會自動在背景響起優雅的「叮～咚～」聲，提示您回網頁複製巨集！
