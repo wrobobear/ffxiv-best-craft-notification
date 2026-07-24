@@ -47,8 +47,7 @@ Since high-difficulty recipe AI solving often takes several minutes, this script
 You need a script manager installed in your browser first:
 1. Use **Microsoft Edge** or **Google Chrome**.
 2. Download and install **Tampermonkey** from the respective extension store:
-   * [Microsoft Edge Add-ons Store](https://microsoft.com)
-   * [Chrome Web Store](https://google.com)
+   * [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 #### Step 2: Create and Install the Script
 1. Click the **Tampermonkey icon** in the top right corner of your browser and select **"Create a new script"**.
@@ -56,7 +55,7 @@ You need a script manager installed in your browser first:
 3. Click **"File" ＞ "Save"** in the top left corner of the editor.
 
 #### Step 3: How to Use & Important Notice
-1. Navigate to the [BestCraft ZHTW Simulator](https://github.io).
+1. Navigate to the [BestCraft ZHTW Simulator](https://isla-liu.github.io/ffxiv-best-craft-zhtw/#/welcome).
 2. This script features **fully automated background detection**. When you interact with the page (selecting recipes, tweaking stats, or clicking "Solve"), the browser will automatically grant audio permissions.
 3. After clicking solve, you can safely put the browser in the background, minimize it, or switch back to FFXIV.
 4. Once the calculation is complete, a gentle "Ding-Dong" chime will automatically play in the background, reminding you to copy your macros!
